@@ -1,0 +1,228 @@
+           /* All common css start */
+ *{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.mr{
+  margin-right:0 !important;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+} 
+.clr{
+    clear: both;
+}
+            /* All common css end */
+
+
+            /* Header part start */
+/* .logo_menu_part{
+      background: rgb(238, 68, 30);
+} */
+#header_part{
+  background:rgba(0, 0, 0, 0.44);
+  position:fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+.logo{
+  width: 120px;
+  float: left;
+}
+.logo img{
+  padding-top: 28px;
+}
+.menu{
+  width: 1200px;
+  float: left;
+  text-align: right;
+}
+.menu ul li {
+
+   display: inline-block;
+
+}
+.menu ul li a{
+  color: #fff;
+  padding-left: 45px;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height:80px;
+  transition: 0.4s;
+}
+.menu ul li a:hover{
+  color: #28b8d8;
+}
+
+            /* Header part end */
+
+
+
+                            /* Header part start */
+
+#banner_part{
+  background: url(../images/banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 330px;
+  padding-bottom: 252px;
+}
+
+.banner_text{
+  text-align: center;
+}
+.banner_text h1{
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+}
+.banner_text h3{
+  color: #fff;
+  font-size: 40px;
+  font-weight: 300;
+  font-family: 'Roboto Slab', serif;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.banner_text p{
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: 'Roboto Slab', serif;
+  text-transform: uppercase;
+}
+
+                            /* Header part end */
+
+                           /* sarvice part start */
+#sarvice_part{
+  padding-top:80px ;
+  padding-bottom: 82px;
+  background: #f9f9f9;
+}
+.sarvice_text{
+  text-align: center;
+}
+.sarvice_text h3{
+  color: #444444;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: 'Roboto Slab', serif;
+  text-transform: uppercase;
+}
+
+.sarvice_text p{
+  padding-top: 30px;
+  padding-bottom: 80px;
+  color: #9d9d9d;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
+.sarvice_text h2{
+  color: #444444;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Roboto Condensed', sans-serif;;
+  text-transform: uppercase;
+  padding-bottom: 30px;
+}
+.sarvice_item_part{
+  width:418px;
+  border: 1px solid #e3e3e3;
+  padding: 15px;
+  float: left;
+  margin-right:30px;
+ 
+}
+.sarvice_item img{
+  width: 100%;
+}
+.item_text{
+  text-align: center;
+}
+.item_text h3{
+  padding-top: 26px;
+  padding-bottom: 15px;
+  font-size: 17px;
+  font-weight: 700;
+  font-family: 'Roboto Slab', serif;
+  color: #444444;
+}  
+.item_text p{
+  color: #b3b3b3;
+  line-height: 20px;
+  padding: 0 45px;
+  padding-bottom: 14px;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+
+}                        /* sarvice part end */
+
+
+
+
+
+
+
+
+
+
+
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+              /* Header part start */
+            /* Header part end */
+            
